@@ -1,0 +1,172 @@
+#EXTM3U size="big"
+ 
+#EXTINF:-1,RT Guarany
+http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8
+
+
+#EXTINF:-1,FILMES GUARANI
+http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1,FILMES 24h
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1,CINE GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1,CINE+
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
+
+
+#EXTINF:-1,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1,TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+
+#EXTINF:-1,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8				
+
+#EXTINF:-1,TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1,TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
+
+#EXTINF:-1,TV PANTANAL
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1,TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
+					
+
+#EXTINF:-1,TV CULTURA
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1,TV JAPI
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:-1,CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1,UNITV – UNIVERSIDADE DE PORTO ALEGRE
+http://unitvaovivo.ufrgs.br:8080/live.flv
+
+#EXTINF:-1,CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8					
+
+#EXTINF:-1,REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1,A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist.m3u8
+
+#EXTINF:-1,CORREIO GOIANO TV
+http://tv01.logicahost.com.br:1935/correiogoianotv/correiogoianotv/live.m3u8
+
+#EXTINF:-1,TV DIÁRIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1,REDE BRASIL SP
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1,REDE BRASIL DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1,TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1,TV CULTURA PR
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1,CANAL 24h
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8		
+
+
+#EXTINF:-1,REDE MEIO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1,TV DIARIO
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+
+#EXTINF:-1,TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+					
+#EXTINF:-1,TV FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1,1001 NOITES
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
+
+#EXTINF:-1,SANTA CECÍLIA
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1,TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+
+#EXTINF:-1,TV POCOS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,TVE BAHIA
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8				
+
+#EXTINF:-1,TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1,TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1,APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1,TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+					
+#EXTINF:-1,REDE SECULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1,CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1,REDE FAMÍLIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+
+#EXTINF:-1,REDE NEW
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1,GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8			
+
+
+#EXTINF:-1,TV JS
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+
+#EXTINF:-1,SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+ 
+#EXTINF:-1,SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1,REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1,RECORD ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+
+#EXTINF:-1,SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1,SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1,RECORD NEWS 2
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w443099077.m3u8
+
+#EXTINF:-1,NOVA NORDESTE
+https://cdn.jmvstream.com/live/hls/lv_7081/LV7081_1d9b6iVXj2.m3u8
+
+#EXTINF:-1,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
