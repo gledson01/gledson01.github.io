@@ -1,0 +1,101 @@
+#EXTM3U size="big"
+
+#EXTINF:-1 group-title="Filmes",Telecine Premium
+https://azuls.azureedge.net/telecinepremium.m3u8
+
+#EXTINF:-1 group-title="Filmes",Telecine Action
+https://azuls.azureedge.net/hls1/telecineaction.m3u8
+
+#EXTINF:-1 group-title="Filmes",Telecine Touch
+https://azuls.azureedge.net/hls1/telecinetouch.m3u8
+
+#EXTINF:-1 group-title="Filmes",Telecine Fun
+https://azuls.azureedge.net/hls1/telecinefun.m3u8
+
+#EXTINF:-1 group-title="Filmes",Cinemax
+https://azuls.azureedge.net/hls1/cinemax.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO
+https://azuls.azureedge.net/hls1/hbo.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO 2
+https://azuls.azureedge.net/hls1/hbo2.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO Family
+https://azuls.azureedge.net/hls1/hbofamily.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO Plus
+https://azuls.azureedge.net/hls1/hboplus.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO Signature
+https://azuls.azureedge.net/hls1/hbosignature.m3u8
+
+#EXTINF:-1 group-title="Filmes",Max Prime
+https://azuls.azureedge.net/hls1/maxprime.m3u8
+
+#EXTINF:-1 group-title="Filmes",Megapix
+https://azuls.azureedge.net/hls1/megapix.m3u8
+
+#EXTINF:-1 group-title="Filmes",A&E
+https://azuls.azureedge.net/hls1/aie.m3u8
+
+#EXTINF:-1 group-title="Filmes",Fox
+https://azuls.azureedge.net/hls1/fox.m3u8
+
+#EXTINF:-1 group-title="Filmes",Fox Premium 1
+https://azuls.azureedge.net/hls1/foxpremium1.m3u8
+
+#EXTINF:-1 group-title="Filmes",Fox Premium 2
+https://azuls.azureedge.net/hls1/foxpremium2.m3u8
+
+#EXTINF:-1 group-title="Filmes",AMC
+https://azuls.azureedge.net/hls1/amc.m3u8
+
+#EXTINF:-1 group-title="Filmes",AXN
+https://azuls.azureedge.net/hls1/axn.m3u8
+
+#EXTINF:-1 group-title="Filmes",Canal Sony
+https://azuls.azureedge.net/hls1/sony.m3u8
+
+#EXTINF:-1 group-title="Filmes",TCM
+https://azuls.azureedge.net/hls1/tcm.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Infantil",Nick Jr
+https://azuls.azureedge.net/hls1/nickjr.m3u8
+
+#EXTINF:-1 group-title="Infantil",Boomerang
+https://azuls.azureedge.net/hls1/boomerang.m3u8
+
+#EXTINF:-1 group-title="Infantil",Discovery Kids
+https://azuls.azureedge.net/hls1/discoverykids.m3u8
+
+#EXTINF:-1 group-title="Infantil",Cartoon Network
+https://azuls.azureedge.net/cartoon.m3u8
+
+#EXTINF:-1 group-title="Infantil",Disney Junior
+https://azuls.azureedge.net/hls1/disneyjunior.m3u8
+
+#EXTINF:-1 group-title="Infantil",Disney Channel
+https://azuls.azureedge.net/hls1/disney.m3u8
+
+#EXTINF:-1 group-title="Infantil",Disney XD
+https://azuls.azureedge.net/hls1/disneyxd.m3u8
+
+#EXTINF:-1 group-title="Infantil",Gloob
+https://azuls.azureedge.net/hls1/gloob.m3u8
+
+#EXTINF:-1 group-title="Infantil",Nat Geo Kids
+https://azuls.azureedge.net/hls1/natgeokids.m3u8
+
+#EXTINF:-1 group-title="Infantil",Nickelodeon
+https://azuls.azureedge.net/hls1/nick.m3u8
+
+#EXTINF:-1 group-title="Infantil",ToonCast
+https://azuls.azureedge.net/hls1/tooncast.m3u8
+
+
+
+
